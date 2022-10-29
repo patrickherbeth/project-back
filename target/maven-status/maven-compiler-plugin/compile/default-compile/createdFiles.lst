@@ -1,0 +1,7 @@
+br\com\projeto\model\Document.class
+br\com\projeto\repository\DocumentRepository.class
+br\com\projeto\controller\ApplicationController.class
+br\com\projeto\Application.class
+br\com\projeto\Main.class
+br\com\projeto\service\ApplicationService.class
+br\com\projeto\service\InterfaceApplicationService.class
